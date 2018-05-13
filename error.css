@@ -1,0 +1,27 @@
+/*CSS Document*/
+
+html {
+	background:black;
+	
+}
+
+.pic {
+	margin:auto;
+	padding-left:100px;
+	padding-right:100px;
+	padding-top:25px;
+	text-align:center;
+	
+}
+img.skull {
+	height:500px;
+	width:353px;
+}
+
+div {
+	margin:auto;
+	text-align:center;
+	padding-left:100px;
+	padding-right:100px;
+	
+}
