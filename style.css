@@ -4,6 +4,14 @@ html {
 	background:black;
 	
 }
+
+
+body {
+	widht:1300px;
+}
+
+
+
 .navbar {
     overflow: hidden;
     background-color: #333;
