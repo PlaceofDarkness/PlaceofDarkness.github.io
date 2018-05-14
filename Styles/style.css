@@ -3,7 +3,7 @@
 html {
 	background:black;
 	font-family: Arial;
-	font-size:12px;
+	font-size:16px;
 	color:white;
 	
 }
@@ -78,4 +78,46 @@ div.html {
 .show {
     display: block;
 }
+
+a.cz {
+	float:right;
+	
+}
+
+h1 {
+	font-size:31px;
+	color:#ccc;
+	text-align:center;
+}
+p.zapati {
+	font-size:12px;
+}
+img.pastas {
+	float:right;
+	padding:4px;
+}
+div.text {
+	text-align:left;
+}
+
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #666; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #1a1a1a; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #888; 
+}
+
 
