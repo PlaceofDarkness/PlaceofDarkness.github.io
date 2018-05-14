@@ -92,6 +92,7 @@ h1 {
 p.zapati {
 	font-size:12px;
 	padding:10px;
+	border-top:solid white 1px;
 }
 img.pastas {
 	float:right;
@@ -100,6 +101,8 @@ img.pastas {
 div.text {
 	text-align:left;
 }
+
+
 
 
 ::-webkit-scrollbar {
@@ -125,14 +128,12 @@ iframe {
 	float:right;
 }
 
-a:link {
-    text-decoration: none;
-	color:white;
-}
+
+
 
 a:visited {
     text-decoration: none;
-	color:purple;
+	color:white;
 }
 
 a:hover {
@@ -142,6 +143,20 @@ a:hover {
 
 a:active {
     text-decoration: none;
-	color:purple;
+	color:white;
+}
+
+div.basen {
+	text-align:center;
+}
+img.bom {
+	text-align:center;
+	float:none;
+	
+}
+div.pic {
+	text-align:center;
+	float:none;
+	margin:auto;
 }
 
