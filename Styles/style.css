@@ -128,23 +128,35 @@ iframe {
 	float:right;
 }
 
+div.text a:link {
+color:white;
+text-decoration: none;
+float:none;
 
-
-
-a:visited {
-    text-decoration: none;
-	color:white;
 }
 
-a:hover {
-    text-decoration: none;
-	color:white;
+
+div.text a:visited {
+color:white;
+text-decoration: none;
+float:none;
+
 }
 
-a:active {
-    text-decoration: none;
-	color:white;
+div.text a:hover {
+color:white;
+text-decoration: none;
+float:none;
+
 }
+
+div.text a:active {
+color:white;
+text-decoration: none;
+float:none;
+
+}
+
 
 div.basen {
 	text-align:center;
