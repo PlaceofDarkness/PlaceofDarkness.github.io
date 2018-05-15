@@ -129,17 +129,17 @@ iframe {
 }
 
 
-a.zalgo :visited {
+div.text a:visited {
 color:white;
 text-decoration:none;	
 }
 
-a.zalgo :hover {
+div.text a:hover {
 color:white;
 text-decoration:none;	
 }
 
-a.zalgo :active {
+div.text a:active {
 color:white;
 text-decoration:none;	
 }
