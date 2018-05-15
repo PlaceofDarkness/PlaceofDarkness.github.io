@@ -128,20 +128,25 @@ iframe {
 	float:right;
 }
 
+div.text a:link {
+color:white;
+text-decoration: none;	
+}
+
 
 div.text a:visited {
 color:white;
-text-decoration:none;	
+text-decoration: none;	
 }
 
 div.text a:hover {
 color:white;
-text-decoration:none;	
+text-decoration: none;	
 }
 
 div.text a:active {
 color:white;
-text-decoration:none;	
+text-decoration: none;	
 }
 
 
