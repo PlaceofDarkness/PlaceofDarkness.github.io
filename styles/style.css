@@ -129,22 +129,21 @@ iframe {
 }
 
 
-
-
-a:visited {
-    text-decoration: none;
-	color:white;
+a.zalgo :visited {
+color:white;
+text-decoration:none;	
 }
 
-a:hover {
-    text-decoration: none;
-	color:white;
+a.zalgo :hover {
+color:white;
+text-decoration:none;	
 }
 
-a:active {
-    text-decoration: none;
-	color:white;
+a.zalgo :active {
+color:white;
+text-decoration:none;	
 }
+
 
 div.basen {
 	text-align:center;
