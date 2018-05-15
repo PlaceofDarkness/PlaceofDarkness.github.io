@@ -132,7 +132,7 @@ div.text a:link {
 color:white;
 text-decoration: none;
 float:none;
-font-weight:bold;
+
 }
 
 
@@ -140,21 +140,21 @@ div.text a:visited {
 color:white;
 text-decoration: none;
 float:none;
-font-weight:bold;
+
 }
 
 div.text a:hover {
 color:white;
 text-decoration: none;
 float:none;
-font-weight:bold;
+
 }
 
 div.text a:active {
 color:white;
 text-decoration: none;
 float:none;
-font-weight:bold;
+
 }
 
 
