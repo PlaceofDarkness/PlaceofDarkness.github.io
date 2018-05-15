@@ -128,26 +128,26 @@ iframe {
 	float:right;
 }
 
-div.text a:link {
+a:link {
 color:white;
 text-decoration: none;
 float:none;
 }
 
 
-div.text a:visited {
+a:visited {
 color:white;
 text-decoration: none;
 float:none;
 }
 
-div.text a:hover {
+a:hover {
 color:white;
 text-decoration: none;
 float:none;
 }
 
-div.text a:active {
+a:active {
 color:white;
 text-decoration: none;
 float:none;
