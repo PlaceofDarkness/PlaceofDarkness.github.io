@@ -127,7 +127,7 @@ iframe {
 	float:right;
 }
 
-div.text a:link {
+div.text a:link, a:visited, a:hover, a:active {
 color:white;
 text-decoration: none;
 float:none;
@@ -135,26 +135,7 @@ float:none;
 }
 
 
-div.text a:visited {
-color:white;
-text-decoration: none;
-float:none;
 
-}
-
-div.text a:hover {
-color:white;
-text-decoration: none;
-float:none;
-
-}
-
-div.text a:active {
-color:white;
-text-decoration: none;
-float:none;
-
-}
 
 
 div.basen {
@@ -169,6 +150,15 @@ div.pic {
 	text-align:center;
 	float:none;
 	margin:auto;
+}
+
+div.langue {
+	float:right;
+}
+div.langue a:link, a:visited, a:hover, a:active {
+	color:white;
+text-decoration: none;
+float:none;
 }
 
 
