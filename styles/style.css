@@ -17,6 +17,8 @@ div.html {
 
 
 
+
+
 .navbar {
     overflow: hidden;
     background-color: #333;
@@ -79,10 +81,37 @@ div.html {
     display: block;
 }
 
-a.cz {
+div.langue {
 	float:right;
 	
 }
+
+div.langue a:link {
+color:white;
+text-decoration: none;
+float:none;
+
+}
+
+
+div.langue a:visited {
+color:white;
+text-decoration: none;
+float:none;
+
+}
+
+div.langue a:hover {
+color:white;
+text-decoration: none;
+float:none;
+
+}
+
+div.langue a:active {
+color:white;
+text-decoration: none;
+float:none;
 
 h1 {
 	font-size:31px;
