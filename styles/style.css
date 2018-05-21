@@ -81,37 +81,7 @@ div.html {
     display: block;
 }
 
-div.langue {
-	float:right;
-	
-}
 
-div.langue a:link {
-color:white;
-text-decoration: none;
-float:none;
-
-}
-
-
-div.langue a:visited {
-color:white;
-text-decoration: none;
-float:none;
-
-}
-
-div.langue a:hover {
-color:white;
-text-decoration: none;
-float:none;
-
-}
-
-div.langue a:active {
-color:white;
-text-decoration: none;
-float:none;
 
 h1 {
 	font-size:31px;
@@ -199,5 +169,26 @@ div.pic {
 	text-align:center;
 	float:none;
 	margin:auto;
+}
+
+div.langue {
+float:right;	
+}
+
+div.langue a:link {
+color:white;
+text-decoration:none;	
+}
+div.langue a:hover {
+color:white;
+text-decoration:none;	
+}
+div.langue a:visited {
+color:white;
+text-decoration:none;	
+}
+div.langue a:active {
+color:white;
+text-decoration:none;	
 }
 
