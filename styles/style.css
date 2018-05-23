@@ -51,7 +51,7 @@ div.html {
     margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+.navbar a:hover, .dropdown:hover, .dropbtn, .dropbtn:focus {
     background-color: #1a1a1a;
 }
 
