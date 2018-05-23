@@ -152,15 +152,6 @@ div.pic {
 	margin:auto;
 }
 
-div.langue {
-	float:right;
-}
-div.langue a:link, a:visited, a:hover, a:active {
-	color:white;
-text-decoration: none;
-float:none;
-}
-
 
 
 
