@@ -98,7 +98,7 @@ img.pastas {
 	padding:4px;
 }
 div.text {
-	text-align:left;
+	text-align:center;
 }
 
 
@@ -123,8 +123,14 @@ div.text {
     background: #888; 
 }
 
-iframe {
+iframe .right {
 	float:right;
+}
+
+iframe .center {
+	float:none;
+	text-align:center;
+	margin:auto;
 }
 
 div.text a:link   {
