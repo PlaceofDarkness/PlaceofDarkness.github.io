@@ -19,7 +19,7 @@ img.skull {
 	width:353px;
 }
 
-div {
+div.error {
 	margin:auto;
 	text-align:center;
 	padding-left:100px;
@@ -29,5 +29,12 @@ div {
 
 a {
 	cursor:default;
+	
+}
+.text {
+	color:grey;
+	font-size:12px;
+	text-align:center;
+	
 	
 }
